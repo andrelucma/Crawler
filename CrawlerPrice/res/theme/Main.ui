@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<component type="Form" name="Main" cloudDestinationProperty="Main" title="Rastreador de Pre&#xe7;os" >
+  <component type="Label" name="Label" cloudDestinationProperty="Label" text="Rastreador de Pre&#xe7;os" >
+  </component>
+  <component type="Label" name="Label1" cloudDestinationProperty="Label1" text="Produto Para Rastrear" >
+  </component>
+  <component type="AutoCompleteTextField" name="AutoCompleteTextField" cloudBoundProperty="text" cloudDestinationProperty="AutoCompleteTextField" text="" >
+  </component>
+  <component type="Label" name="Label2" cloudDestinationProperty="Label2" text="Valor Deve Ser Menor que R$" >
+  </component>
+  <component type="AutoCompleteTextField" name="AutoCompleteTextField1" cloudBoundProperty="text" cloudDestinationProperty="AutoCompleteTextField1" text="" >
+  </component>
+  <component type="Button" name="Button" cloudDestinationProperty="Button" text="Salvar Dados" >
+  </component>
+</component>
