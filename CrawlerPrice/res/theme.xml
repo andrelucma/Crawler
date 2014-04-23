@@ -1,9 +1,480 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <resource majorVersion="1" minorVersion="6" useXmlUI="false">
+    <image name="7hxa2zy.png"  />
+    <image name="7hxa2zy.png1"  />
+    <image name="back-btn-big@2x_center.png" type="multi"  />
+    <image name="back-btn-big@2x_left.png" type="multi"  />
+    <image name="back-btn-big@2x_right.png" type="multi"  />
+    <image name="back_center.png" type="multi"  />
+    <image name="back_center_pressed.png" type="multi"  />
+    <image name="back_left.png" type="multi"  />
+    <image name="back_left_pressed.png" type="multi"  />
+    <image name="back_right.png" type="multi"  />
+    <image name="back_right_pressed.png" type="multi"  />
+    <image name="bg-gunmetal@2x_tile.png" type="multi"  />
+    <image name="bg-mesh@2x_tile.jpg"  />
+    <image name="Button.borderBottom_1.png" type="multi"  />
+    <image name="Button.borderBottom_2.png" type="multi"  />
+    <image name="Button.borderBottomL_1.png" type="multi"  />
+    <image name="Button.borderBottomL_2.png" type="multi"  />
+    <image name="Button.borderBottomR_1.png" type="multi"  />
+    <image name="Button.borderBottomR_2.png" type="multi"  />
+    <image name="Button.borderCenter_1.png" type="multi"  />
+    <image name="Button.borderCenter_2.png" type="multi"  />
+    <image name="Button.borderLeft_1.png" type="multi"  />
+    <image name="Button.borderLeft_2.png" type="multi"  />
+    <image name="Button.borderRight_1.png" type="multi"  />
+    <image name="Button.borderRight_2.png" type="multi"  />
+    <image name="Button.borderTop_1.png" type="multi"  />
+    <image name="Button.borderTop_2.png" type="multi"  />
+    <image name="Button.borderTopL_1.png" type="multi"  />
+    <image name="Button.borderTopL_2.png" type="multi"  />
+    <image name="Button.borderTopR_1.png" type="multi"  />
+    <image name="Button.borderTopR_2.png" type="multi"  />
+    <image name="Button.press#borderBottom_1.png" type="multi"  />
+    <image name="Button.press#borderBottom_1.png1" type="multi"  />
+    <image name="Button.press#borderBottomL_1.png" type="multi"  />
+    <image name="Button.press#borderBottomL_1.png1" type="multi"  />
+    <image name="Button.press#borderBottomR_1.png" type="multi"  />
+    <image name="Button.press#borderBottomR_1.png1" type="multi"  />
+    <image name="Button.press#borderCenter_1.png" type="multi"  />
+    <image name="Button.press#borderCenter_1.png1" type="multi"  />
+    <image name="Button.press#borderLeft_1.png" type="multi"  />
+    <image name="Button.press#borderLeft_1.png1" type="multi"  />
+    <image name="Button.press#borderRight_1.png" type="multi"  />
+    <image name="Button.press#borderRight_1.png1" type="multi"  />
+    <image name="Button.press#borderTop_1.png" type="multi"  />
+    <image name="Button.press#borderTop_1.png1" type="multi"  />
+    <image name="Button.press#borderTopL_1.png" type="multi"  />
+    <image name="Button.press#borderTopL_1.png1" type="multi"  />
+    <image name="Button.press#borderTopR_1.png" type="multi"  />
+    <image name="Button.press#borderTopR_1.png1" type="multi"  />
+    <image name="button_left_pressed.png" type="multi"  />
+    <image name="buttonBGPres1"  />
+    <image name="buttonBGPres11"  />
+    <image name="buttonBGPres2"  />
+    <image name="buttonBGPres21"  />
+    <image name="buttonBGPres3"  />
+    <image name="buttonBGPres31"  />
+    <image name="buttonBGPres4"  />
+    <image name="buttonBGPres41"  />
+    <image name="buttonBGPres5"  />
+    <image name="buttonBGPres51"  />
+    <image name="buttonBGPres6"  />
+    <image name="buttonBGPres61"  />
+    <image name="buttonBGPres7"  />
+    <image name="buttonBGPres71"  />
+    <image name="buttonBGPres8"  />
+    <image name="buttonBGPres81"  />
+    <image name="buttonBGPres9"  />
+    <image name="buttonBGPres91"  />
+    <image name="buttonBGSel1"  />
+    <image name="buttonBGSel11"  />
+    <image name="buttonBGSel2"  />
+    <image name="buttonBGSel21"  />
+    <image name="buttonBGSel3"  />
+    <image name="buttonBGSel31"  />
+    <image name="buttonBGSel4"  />
+    <image name="buttonBGSel41"  />
+    <image name="buttonBGSel5"  />
+    <image name="buttonBGSel51"  />
+    <image name="buttonBGSel6"  />
+    <image name="buttonBGSel61"  />
+    <image name="buttonBGSel7"  />
+    <image name="buttonBGSel71"  />
+    <image name="buttonBGSel8"  />
+    <image name="buttonBGSel81"  />
+    <image name="buttonBGSel9"  />
+    <image name="buttonBGSel91"  />
+    <image name="CalcButton.borderBottom_1.png" type="multi"  />
+    <image name="CalcButton.borderBottomL_1.png" type="multi"  />
+    <image name="CalcButton.borderBottomR_1.png" type="multi"  />
+    <image name="CalcButton.borderCenter_1.png" type="multi"  />
+    <image name="CalcButton.borderLeft_1.png" type="multi"  />
+    <image name="CalcButton.borderRight_1.png" type="multi"  />
+    <image name="CalcButton.borderTop_1.png" type="multi"  />
+    <image name="CalcButton.borderTopL_1.png" type="multi"  />
+    <image name="CalcButton.borderTopR_1.png" type="multi"  />
+    <image name="CalcButton.press#borderBottom_1.png" type="multi"  />
+    <image name="CalcButton.press#borderBottomL_1.png" type="multi"  />
+    <image name="CalcButton.press#borderBottomR_1.png" type="multi"  />
+    <image name="CalcButton.press#borderCenter_1.png" type="multi"  />
+    <image name="CalcButton.press#borderLeft_1.png" type="multi"  />
+    <image name="CalcButton.press#borderRight_1.png" type="multi"  />
+    <image name="CalcButton.press#borderTop_1.png" type="multi"  />
+    <image name="CalcButton.press#borderTopL_1.png" type="multi"  />
+    <image name="CalcButton.press#borderTopR_1.png" type="multi"  />
+    <image name="CalculatorInput.borderBottom_1.png" type="multi"  />
+    <image name="CalculatorInput.borderBottomL_1.png" type="multi"  />
+    <image name="CalculatorInput.borderBottomR_1.png" type="multi"  />
+    <image name="CalculatorInput.borderCenter_1.png" type="multi"  />
+    <image name="CalculatorInput.borderLeft_1.png" type="multi"  />
+    <image name="CalculatorInput.borderRight_1.png" type="multi"  />
+    <image name="CalculatorInput.borderTop_1.png" type="multi"  />
+    <image name="CalculatorInput.borderTopL_1.png" type="multi"  />
+    <image name="CalculatorInput.borderTopR_1.png" type="multi"  />
+    <image name="calendar_arrow_left@2x.png" type="multi"  />
+    <image name="calendar_arrow_right@2x.png" type="multi"  />
+    <image name="CalendarDate.borderBottom_2.png" type="multi"  />
+    <image name="CalendarDate.borderBottomL_2.png" type="multi"  />
+    <image name="CalendarDate.borderBottomR_2.png" type="multi"  />
+    <image name="CalendarDate.borderCenter_2.png" type="multi"  />
+    <image name="CalendarDate.borderLeft_2.png" type="multi"  />
+    <image name="CalendarDate.borderRight_2.png" type="multi"  />
+    <image name="CalendarDate.borderTop_2.png" type="multi"  />
+    <image name="CalendarDate.borderTopL_2.png" type="multi"  />
+    <image name="CalendarDate.borderTopR_2.png" type="multi"  />
+    <image name="CalendarDay.borderBottom_2.png" type="multi"  />
+    <image name="CalendarDay.borderBottomL_2.png" type="multi"  />
+    <image name="CalendarDay.borderBottomR_2.png" type="multi"  />
+    <image name="CalendarDay.borderCenter_2.png" type="multi"  />
+    <image name="CalendarDay.borderLeft_2.png" type="multi"  />
+    <image name="CalendarDay.borderRight_2.png" type="multi"  />
+    <image name="CalendarDay.borderTop_2.png" type="multi"  />
+    <image name="CalendarDay.borderTopL_2.png" type="multi"  />
+    <image name="CalendarDay.borderTopR_2.png" type="multi"  />
+    <image name="CalendarDayArea.borderBottom_1.png" type="multi"  />
+    <image name="CalendarDayArea.borderBottomL_1.png" type="multi"  />
+    <image name="CalendarDayArea.borderBottomR_1.png" type="multi"  />
+    <image name="CalendarDayArea.borderCenter_1.png" type="multi"  />
+    <image name="CalendarDayArea.borderLeft_1.png" type="multi"  />
+    <image name="CalendarDayArea.borderRight_1.png" type="multi"  />
+    <image name="CalendarDayArea.borderTop_1.png" type="multi"  />
+    <image name="CalendarDayArea.borderTopL_1.png" type="multi"  />
+    <image name="CalendarDayArea.borderTopR_1.png" type="multi"  />
+    <image name="CalendarTitleArea.borderBottom_3.png" type="multi"  />
+    <image name="CalendarTitleArea.borderBottomL_3.png" type="multi"  />
+    <image name="CalendarTitleArea.borderBottomR_3.png" type="multi"  />
+    <image name="CalendarTitleArea.borderCenter_3.png" type="multi"  />
+    <image name="CalendarTitleArea.borderLeft_3.png" type="multi"  />
+    <image name="CalendarTitleArea.borderRight_3.png" type="multi"  />
+    <image name="CalendarTitleArea.borderTop_3.png" type="multi"  />
+    <image name="CalendarTitleArea.borderTopL_3.png" type="multi"  />
+    <image name="CalendarTitleArea.borderTopR_3.png" type="multi"  />
+    <image name="checkbox_checked.png"  />
+    <image name="checkbox_checked.png1" type="multi"  />
+    <image name="checkbox_unchecked.png"  />
+    <image name="checkbox_unchecked.png1" type="multi"  />
+    <image name="ClearButton.borderBottom_1.png" type="multi"  />
+    <image name="ClearButton.borderBottomL_1.png" type="multi"  />
+    <image name="ClearButton.borderBottomR_1.png" type="multi"  />
+    <image name="ClearButton.borderCenter_1.png" type="multi"  />
+    <image name="ClearButton.borderLeft_1.png" type="multi"  />
+    <image name="ClearButton.borderRight_1.png" type="multi"  />
+    <image name="ClearButton.borderTop_1.png" type="multi"  />
+    <image name="ClearButton.borderTopL_1.png" type="multi"  />
+    <image name="ClearButton.borderTopR_1.png" type="multi"  />
+    <image name="ClearButton.press#borderBottom_1.png" type="multi"  />
+    <image name="ClearButton.press#borderBottomL_1.png" type="multi"  />
+    <image name="ClearButton.press#borderBottomR_1.png" type="multi"  />
+    <image name="ClearButton.press#borderCenter_1.png" type="multi"  />
+    <image name="ClearButton.press#borderLeft_1.png" type="multi"  />
+    <image name="ClearButton.press#borderRight_1.png" type="multi"  />
+    <image name="ClearButton.press#borderTop_1.png" type="multi"  />
+    <image name="ClearButton.press#borderTopL_1.png" type="multi"  />
+    <image name="ClearButton.press#borderTopR_1.png" type="multi"  />
+    <image name="combo.png"  />
+    <image name="combo.png1" type="multi"  />
+    <image name="command_center.png" type="multi"  />
+    <image name="command_left.png" type="multi"  />
+    <image name="command_right.png" type="multi"  />
+    <image name="DataSheet.borderBottom_1.png" type="multi"  />
+    <image name="DataSheet.borderBottomL_1.png" type="multi"  />
+    <image name="DataSheet.borderBottomR_1.png" type="multi"  />
+    <image name="DataSheet.borderCenter_1.png" type="multi"  />
+    <image name="DataSheet.borderLeft_1.png" type="multi"  />
+    <image name="DataSheet.borderRight_1.png" type="multi"  />
+    <image name="DataSheet.borderTop_1.png" type="multi"  />
+    <image name="DataSheet.borderTopL_1.png" type="multi"  />
+    <image name="DataSheet.borderTopR_1.png" type="multi"  />
+    <image name="details-separator@2x.png" type="multi"  />
+    <image name="Dialog.borderBottom:1"  />
+    <image name="Dialog.borderBottom:11"  />
+    <image name="Dialog.borderBottomL:1"  />
+    <image name="Dialog.borderBottomL:11"  />
+    <image name="Dialog.borderBottomR:1"  />
+    <image name="Dialog.borderBottomR:11"  />
+    <image name="Dialog.borderCenter:1"  />
+    <image name="Dialog.borderCenter:11"  />
+    <image name="Dialog.borderLeft:1"  />
+    <image name="Dialog.borderLeft:11"  />
+    <image name="Dialog.borderRight:1"  />
+    <image name="Dialog.borderRight:11"  />
+    <image name="Dialog.borderTop:1"  />
+    <image name="Dialog.borderTop:11"  />
+    <image name="Dialog.borderTopL:1"  />
+    <image name="Dialog.borderTopL:11"  />
+    <image name="Dialog.borderTopR:1"  />
+    <image name="Dialog.borderTopR:11"  />
+    <image name="Followers.borderBottom_1.png" type="multi"  />
+    <image name="Followers.borderBottomL_1.png" type="multi"  />
+    <image name="Followers.borderBottomR_1.png" type="multi"  />
+    <image name="Followers.borderCenter_1.png" type="multi"  />
+    <image name="Followers.borderLeft_1.png" type="multi"  />
+    <image name="Followers.borderRight_1.png" type="multi"  />
+    <image name="Followers.borderTop_1.png" type="multi"  />
+    <image name="Followers.borderTopL_1.png" type="multi"  />
+    <image name="Followers.borderTopR_1.png" type="multi"  />
+    <image name="Following.borderBottom_1.png" type="multi"  />
+    <image name="Following.borderBottomL_1.png" type="multi"  />
+    <image name="Following.borderBottomR_1.png" type="multi"  />
+    <image name="Following.borderCenter_1.png" type="multi"  />
+    <image name="Following.borderLeft_1.png" type="multi"  />
+    <image name="Following.borderRight_1.png" type="multi"  />
+    <image name="Following.borderTop_1.png" type="multi"  />
+    <image name="Following.borderTopL_1.png" type="multi"  />
+    <image name="Following.borderTopR_1.png" type="multi"  />
     <legacyFont name="Font 1" />
+    <image name="font.png"  />
+    <image name="font.png1"  />
+    <image name="GreenButton.borderBottom_1.png" type="multi"  />
+    <image name="GreenButton.borderBottomL_1.png" type="multi"  />
+    <image name="GreenButton.borderBottomR_1.png" type="multi"  />
+    <image name="GreenButton.borderCenter_1.png" type="multi"  />
+    <image name="GreenButton.borderLeft_1.png" type="multi"  />
+    <image name="GreenButton.borderRight_1.png" type="multi"  />
+    <image name="GreenButton.borderTop_1.png" type="multi"  />
+    <image name="GreenButton.borderTopL_1.png" type="multi"  />
+    <image name="GreenButton.borderTopR_1.png" type="multi"  />
+    <image name="GreenButton.press#borderBottom_1.png" type="multi"  />
+    <image name="GreenButton.press#borderBottomL_1.png" type="multi"  />
+    <image name="GreenButton.press#borderBottomR_1.png" type="multi"  />
+    <image name="GreenButton.press#borderCenter_1.png" type="multi"  />
+    <image name="GreenButton.press#borderLeft_1.png" type="multi"  />
+    <image name="GreenButton.press#borderRight_1.png" type="multi"  />
+    <image name="GreenButton.press#borderTop_1.png" type="multi"  />
+    <image name="GreenButton.press#borderTopL_1.png" type="multi"  />
+    <image name="GreenButton.press#borderTopR_1.png" type="multi"  />
+    <ui name="GUI 1" />
+    <image name="GUIBuilder.png"  />
+    <image name="GUIBuilder.png1"  />
+    <image name="images.png"  />
+    <image name="images.png1"  />
+    <image name="List.sel#borderBottom:1"  />
+    <image name="List.sel#borderBottom:11"  />
+    <image name="List.sel#borderBottomL:1"  />
+    <image name="List.sel#borderBottomL:11"  />
+    <image name="List.sel#borderBottomR:1"  />
+    <image name="List.sel#borderBottomR:11"  />
+    <image name="List.sel#borderCenter:1"  />
+    <image name="List.sel#borderCenter:11"  />
+    <image name="List.sel#borderLeft:1"  />
+    <image name="List.sel#borderLeft:11"  />
+    <image name="List.sel#borderRight:1"  />
+    <image name="List.sel#borderRight:11"  />
+    <image name="List.sel#borderTop:1"  />
+    <image name="List.sel#borderTop:11"  />
+    <image name="List.sel#borderTopL:1"  />
+    <image name="List.sel#borderTopL:11"  />
+    <image name="List.sel#borderTopR:1"  />
+    <image name="List.sel#borderTopR:11"  />
+    <ui name="ListaNotificacao" />
+    <ui name="ListaProdutos" />
+    <l10n name="Localization (L10N) 1">
+        <lang name="en">
+            <entry key="menu" value="Menu" />
+            <entry key="Calendar.Sunday" value="Sun" />
+            <entry key="Calendar.Tuesday" value="Tue" />
+            <entry key="Calendar.Wednesday" value="Wed" />
+            <entry key="Calendar.Thursday" value="Thu" />
+            <entry key="ok" value="OK" />
+            <entry key="Calendar.Saturday" value="Sat" />
+            <entry key="Calendar.Friday" value="Fri" />
+            <entry key="select" value="Select" />
+            <entry key="edit" value="Edit" />
+            <entry key="Calendar.Monday" value="Mon" />
+            <entry key="cancel" value="Cancel" />
+        </lang>
+    </l10n>
     <ui name="Main" />
-    <theme name="Theme">
+    <image name="mask.png" type="multi"  />
+    <image name="maskb.png 3" type="multi"  />
+    <image name="MetalButton.borderBottom_1.png" type="multi"  />
+    <image name="MetalButton.borderBottomL_1.png" type="multi"  />
+    <image name="MetalButton.borderBottomR_1.png" type="multi"  />
+    <image name="MetalButton.borderCenter_1.png" type="multi"  />
+    <image name="MetalButton.borderLeft_1.png" type="multi"  />
+    <image name="MetalButton.borderRight_1.png" type="multi"  />
+    <image name="MetalButton.borderTop_1.png" type="multi"  />
+    <image name="MetalButton.borderTopL_1.png" type="multi"  />
+    <image name="MetalButton.borderTopR_1.png" type="multi"  />
+    <image name="MetalButton.press#borderBottom_1.png" type="multi"  />
+    <image name="MetalButton.press#borderBottomL_1.png" type="multi"  />
+    <image name="MetalButton.press#borderBottomR_1.png" type="multi"  />
+    <image name="MetalButton.press#borderCenter_1.png" type="multi"  />
+    <image name="MetalButton.press#borderLeft_1.png" type="multi"  />
+    <image name="MetalButton.press#borderRight_1.png" type="multi"  />
+    <image name="MetalButton.press#borderTop_1.png" type="multi"  />
+    <image name="MetalButton.press#borderTopL_1.png" type="multi"  />
+    <image name="MetalButton.press#borderTopR_1.png" type="multi"  />
+    <image name="MultiButton.borderBottom_1.png" type="multi"  />
+    <image name="MultiButton.borderBottom_2.png" type="multi"  />
+    <image name="MultiButton.borderBottomL_1.png" type="multi"  />
+    <image name="MultiButton.borderBottomL_2.png" type="multi"  />
+    <image name="MultiButton.borderBottomR_1.png" type="multi"  />
+    <image name="MultiButton.borderBottomR_2.png" type="multi"  />
+    <image name="MultiButton.borderCenter_1.png" type="multi"  />
+    <image name="MultiButton.borderCenter_2.png" type="multi"  />
+    <image name="MultiButton.borderLeft_1.png" type="multi"  />
+    <image name="MultiButton.borderLeft_2.png" type="multi"  />
+    <image name="MultiButton.borderRight_1.png" type="multi"  />
+    <image name="MultiButton.borderRight_2.png" type="multi"  />
+    <image name="MultiButton.borderTop_1.png" type="multi"  />
+    <image name="MultiButton.borderTop_2.png" type="multi"  />
+    <image name="MultiButton.borderTopL_1.png" type="multi"  />
+    <image name="MultiButton.borderTopL_2.png" type="multi"  />
+    <image name="MultiButton.borderTopR_1.png" type="multi"  />
+    <image name="MultiButton.borderTopR_2.png" type="multi"  />
+    <image name="MultiLine2.borderBottom_1.png" type="multi"  />
+    <image name="MultiLine2.borderBottomL_1.png" type="multi"  />
+    <image name="MultiLine2.borderBottomR_1.png" type="multi"  />
+    <image name="MultiLine2.borderCenter_1.png" type="multi"  />
+    <image name="MultiLine2.borderLeft_1.png" type="multi"  />
+    <image name="MultiLine2.borderRight_1.png" type="multi"  />
+    <image name="MultiLine2.borderTop_1.png" type="multi"  />
+    <image name="MultiLine2.borderTopL_1.png" type="multi"  />
+    <image name="MultiLine2.borderTopR_1.png" type="multi"  />
+    <image name="nav-bar@2x_button_center.png" type="multi"  />
+    <image name="nav-bar@2x_button_left.png" type="multi"  />
+    <image name="nav-bar@2x_button_right.png" type="multi"  />
+    <image name="navbar@2x.png" type="multi"  />
+    <image name="radio_checked.png"  />
+    <image name="radio_checked.png1" type="multi"  />
+    <image name="radio_unchecked.png"  />
+    <image name="radio_unchecked.png1" type="multi"  />
+    <image name="RedButton.borderBottom_1.png" type="multi"  />
+    <image name="RedButton.borderBottomL_1.png" type="multi"  />
+    <image name="RedButton.borderBottomR_1.png" type="multi"  />
+    <image name="RedButton.borderCenter_1.png" type="multi"  />
+    <image name="RedButton.borderLeft_1.png" type="multi"  />
+    <image name="RedButton.borderRight_1.png" type="multi"  />
+    <image name="RedButton.borderTop_1.png" type="multi"  />
+    <image name="RedButton.borderTopL_1.png" type="multi"  />
+    <image name="RedButton.borderTopR_1.png" type="multi"  />
+    <image name="RedButton.press#borderBottom_1.png" type="multi"  />
+    <image name="RedButton.press#borderBottomL_1.png" type="multi"  />
+    <image name="RedButton.press#borderBottomR_1.png" type="multi"  />
+    <image name="RedButton.press#borderCenter_1.png" type="multi"  />
+    <image name="RedButton.press#borderLeft_1.png" type="multi"  />
+    <image name="RedButton.press#borderRight_1.png" type="multi"  />
+    <image name="RedButton.press#borderTop_1.png" type="multi"  />
+    <image name="RedButton.press#borderTopL_1.png" type="multi"  />
+    <image name="RedButton.press#borderTopR_1.png" type="multi"  />
+    <image name="slider-bg@2x_center.png" type="multi"  />
+    <image name="slider-bg@2x_left.png" type="multi"  />
+    <image name="slider-bg@2x_right.png" type="multi"  />
+    <image name="slider-fill@2x_center.png" type="multi"  />
+    <image name="slider-fill@2x_left.png" type="multi"  />
+    <image name="slider-fill@2x_right.png" type="multi"  />
+    <image name="Slider.borderBottom_2.png" type="multi"  />
+    <image name="Slider.borderBottomL_2.png" type="multi"  />
+    <image name="Slider.borderBottomR_2.png" type="multi"  />
+    <image name="Slider.borderCenter_2.png" type="multi"  />
+    <image name="Slider.borderLeft_2.png" type="multi"  />
+    <image name="Slider.borderRight_2.png" type="multi"  />
+    <image name="Slider.borderTop_2.png" type="multi"  />
+    <image name="Slider.borderTopL_2.png" type="multi"  />
+    <image name="Slider.borderTopR_2.png" type="multi"  />
+    <image name="Slider.sel#borderBottom:1"  />
+    <image name="Slider.sel#borderBottom:11"  />
+    <image name="Slider.sel#borderBottomL:1"  />
+    <image name="Slider.sel#borderBottomL:11"  />
+    <image name="Slider.sel#borderBottomR:1"  />
+    <image name="Slider.sel#borderBottomR:11"  />
+    <image name="Slider.sel#borderCenter:1"  />
+    <image name="Slider.sel#borderCenter:11"  />
+    <image name="Slider.sel#borderLeft:1"  />
+    <image name="Slider.sel#borderLeft:11"  />
+    <image name="Slider.sel#borderRight:1"  />
+    <image name="Slider.sel#borderRight:11"  />
+    <image name="Slider.sel#borderTop:1"  />
+    <image name="Slider.sel#borderTop:11"  />
+    <image name="Slider.sel#borderTopL:1"  />
+    <image name="Slider.sel#borderTopL:11"  />
+    <image name="Slider.sel#borderTopR:1"  />
+    <image name="Slider.sel#borderTopR:11"  />
+    <image name="SliderFull.borderBottom:1"  />
+    <image name="SliderFull.borderBottom:11"  />
+    <image name="SliderFull.borderBottomL:1"  />
+    <image name="SliderFull.borderBottomL:11"  />
+    <image name="SliderFull.borderBottomR:1"  />
+    <image name="SliderFull.borderBottomR:11"  />
+    <image name="SliderFull.borderCenter:1"  />
+    <image name="SliderFull.borderCenter:11"  />
+    <image name="SliderFull.borderLeft:1"  />
+    <image name="SliderFull.borderLeft:11"  />
+    <image name="SliderFull.borderRight:1"  />
+    <image name="SliderFull.borderRight:11"  />
+    <image name="SliderFull.borderTop:1"  />
+    <image name="SliderFull.borderTop:11"  />
+    <image name="SliderFull.borderTopL:1"  />
+    <image name="SliderFull.borderTopL:11"  />
+    <image name="SliderFull.borderTopR:1"  />
+    <image name="SliderFull.borderTopR:11"  />
+    <image name="TextField.borderBottom_1.png" type="multi"  />
+    <image name="TextField.borderBottom_1.png1" type="multi"  />
+    <image name="TextField.borderBottomL_1.png" type="multi"  />
+    <image name="TextField.borderBottomL_1.png1" type="multi"  />
+    <image name="TextField.borderBottomR_1.png" type="multi"  />
+    <image name="TextField.borderBottomR_1.png1" type="multi"  />
+    <image name="TextField.borderCenter_1.png" type="multi"  />
+    <image name="TextField.borderCenter_1.png1" type="multi"  />
+    <image name="TextField.borderLeft_1.png" type="multi"  />
+    <image name="TextField.borderLeft_1.png1" type="multi"  />
+    <image name="TextField.borderRight_1.png" type="multi"  />
+    <image name="TextField.borderRight_1.png1" type="multi"  />
+    <image name="TextField.borderTop_1.png" type="multi"  />
+    <image name="TextField.borderTop_1.png1" type="multi"  />
+    <image name="TextField.borderTopL_1.png" type="multi"  />
+    <image name="TextField.borderTopL_1.png1" type="multi"  />
+    <image name="TextField.borderTopR_1.png" type="multi"  />
+    <image name="TextField.borderTopR_1.png1" type="multi"  />
+    <image name="TextField.sel#borderBottom:1"  />
+    <image name="TextField.sel#borderBottom:11"  />
+    <image name="TextField.sel#borderBottomL:1"  />
+    <image name="TextField.sel#borderBottomL:11"  />
+    <image name="TextField.sel#borderBottomR:1"  />
+    <image name="TextField.sel#borderBottomR:11"  />
+    <image name="TextField.sel#borderCenter:1"  />
+    <image name="TextField.sel#borderCenter:11"  />
+    <image name="TextField.sel#borderLeft:1"  />
+    <image name="TextField.sel#borderLeft:11"  />
+    <image name="TextField.sel#borderRight:1"  />
+    <image name="TextField.sel#borderRight:11"  />
+    <image name="TextField.sel#borderTop:1"  />
+    <image name="TextField.sel#borderTop:11"  />
+    <image name="TextField.sel#borderTopL:1"  />
+    <image name="TextField.sel#borderTopL:11"  />
+    <image name="TextField.sel#borderTopR:1"  />
+    <image name="TextField.sel#borderTopR:11"  />
+    <image name="texture.jpg"  />
+    <theme name="Theme 3">
         <val key="@includeNativeBool" value="true" />
+        <val key="Slider.margin" value="0,0,0,100" />
+        <val key="Slider.padding" value="8,0,0,0" />
+        <val key="par.bgImage" value="7hxa2zy.png" />
+        <val key="par.bgType" value="1" />
     </theme>
+    <image name="theme.png"  />
+    <image name="theme.png1"  />
+    <image name="tile.jpg"  />
+    <image name="TitleArea.borderBottom_2.png" type="multi"  />
+    <image name="TitleArea.borderBottomL_2.png" type="multi"  />
+    <image name="TitleArea.borderBottomR_2.png" type="multi"  />
+    <image name="TitleArea.borderCenter_2.png" type="multi"  />
+    <image name="TitleArea.borderLeft_2.png" type="multi"  />
+    <image name="TitleArea.borderRight_2.png" type="multi"  />
+    <image name="TitleArea.borderTop_2.png" type="multi"  />
+    <image name="TitleArea.borderTopL_2.png" type="multi"  />
+    <image name="TitleArea.borderTopR_2.png" type="multi"  />
+    <image name="Updates.borderBottom_1.png" type="multi"  />
+    <image name="Updates.borderBottomL_1.png" type="multi"  />
+    <image name="Updates.borderBottomR_1.png" type="multi"  />
+    <image name="Updates.borderCenter_1.png" type="multi"  />
+    <image name="Updates.borderLeft_1.png" type="multi"  />
+    <image name="Updates.borderRight_1.png" type="multi"  />
+    <image name="Updates.borderTop_1.png" type="multi"  />
+    <image name="Updates.borderTopL_1.png" type="multi"  />
+    <image name="Updates.borderTopR_1.png" type="multi"  />
 </resource>

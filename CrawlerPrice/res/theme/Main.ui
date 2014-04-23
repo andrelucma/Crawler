@@ -1,16 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<component type="Form" name="Main" cloudDestinationProperty="Main" title="Rastreador de Pre&#xe7;os" >
-  <component type="Label" name="Label" cloudDestinationProperty="Label" text="Rastreador de Pre&#xe7;os" >
+<component type="Form" name="Main" cloudDestinationProperty="Main" scrollVisible="false" snapToGrid="false" layout="BoxLayout" boxLayoutAxis="Y" title="Rastreador de Pre&#xe7;os" >
+  <component type="Label" name="Label1" cloudDestinationProperty="Label1" text="Nome Do Produto" >
   </component>
-  <component type="Label" name="Label1" cloudDestinationProperty="Label1" text="Produto Para Rastrear" >
+  <component type="AutoCompleteTextField" name="AutoCompleteTextField" cloudBoundProperty="text" cloudDestinationProperty="AutoCompleteTextField" text="" hint=" Ex: TV Samsung 42, PlayStation 4" >
   </component>
-  <component type="AutoCompleteTextField" name="AutoCompleteTextField" cloudBoundProperty="text" cloudDestinationProperty="AutoCompleteTextField" text="" >
+  <component type="Label" name="Label2" cloudDestinationProperty="Label2" text="Valor deve ser Menor ou Igual a R$" >
   </component>
-  <component type="Label" name="Label2" cloudDestinationProperty="Label2" text="Valor Deve Ser Menor que R$" >
+  <component type="AutoCompleteTextField" name="AutoCompleteTextField1" cloudBoundProperty="text" cloudDestinationProperty="AutoCompleteTextField1" tensileDragEnabled="false" text="" constraint="5" >
   </component>
-  <component type="AutoCompleteTextField" name="AutoCompleteTextField1" cloudBoundProperty="text" cloudDestinationProperty="AutoCompleteTextField1" text="" >
-  </component>
-  <component type="Button" name="Button" cloudDestinationProperty="Button" text="Salvar Dados" >
+  <component type="Button" name="Button" cloudDestinationProperty="Button" text="Salvar Produto para Rastreamento" >
   </component>
 </component>
