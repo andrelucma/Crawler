@@ -52,7 +52,7 @@ public class StateMachine extends StateMachineBase {
     	
     	//Hashtable<String, String> table = new Hashtable<String, String>();
     	
-    	vector.addElement("Samsung Android");
+    	vector.addElement("Samsung");
     	vector.addElement("LG");
     	vector.addElement("Nokia");
     	vector.addElement("PlayStation 4");
